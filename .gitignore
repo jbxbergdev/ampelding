@@ -1,0 +1,11 @@
+# MAC OSX files
+.DS_Store
+
+# Android generated folder
+gen
+bin
+
+# Eclipse project files
+*.project
+org.eclipse.jdt.core.prefs
+
