@@ -4,7 +4,11 @@ A Jenkins traffic light based on Android Things.
 
 ### Usage
 
+(Only Raspberry Pi support for now)
 
+* Connect red light to BCM4
+* Connect green light to BCM17
+* Configure app via ADB:
 
 ```
 adb shell am start \
