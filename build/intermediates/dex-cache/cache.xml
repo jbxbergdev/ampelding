@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_03d1f8190f328d7081510e2a464cd598ee2b7095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_4be954ea510c466d6510af6ec8395fb4cc136f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.7.0_057f5b72fed2720176e734212d786889dadc718d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/okio-1.11.0_12a26529aad96fcade31e6db59f628a12a95879e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.5.0_2cc67a150ea0b70fd944b067a0d00d7a7c03ca93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.1.0/ef33476a62d9c62dfca6b6c9e086f2e3343a96f4/converter-jackson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef33476a62d9c62dfca6b6c9e086f2e3343a96f4">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/converter-jackson-2.1.0_6d5f425f1db6a611f352b842315a98c186dd8bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.2/8b8310381b690e317f5f0574e9b2dd7034778b4c/jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/jackson-core-2.7.2_b1f6314a1578bd38db98e83c6f867f78cc47f5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_b815ee8d1a80b3543e44cef91368fc931038c359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/the-aerisch/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.2/84ffa765dd258dbab8695963c41308b054f3a1cb/jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="/home/the-aerisch/AndroidStudioProjects/Ampelding/app/build/intermediates/pre-dexed/debug/jackson-databind-2.7.2_16859ec4b8033e766dd9179c22b1b073902baf59.jar" />
+    </item>
+
+</items>
