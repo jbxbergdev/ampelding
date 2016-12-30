@@ -2,6 +2,9 @@
 
 A Jenkins traffic light based on Android Things.
 
+[![Ampelding](https://img.youtube.com/vi/SrXkLx32RiA/0.jpg)](https://www.youtube.com/watch?v=SrXkLx32RiA)
+
+
 ### Usage
 
 (Only Raspberry Pi support for now)
