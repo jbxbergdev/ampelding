@@ -43,10 +43,18 @@ public class LedIndicator implements BuildIndicator {
 
     private void initLeds() throws IOException {
         PeripheralManagerService peripheralManagerService = new PeripheralManagerService();
-        redLed = peripheralManagerService.openGpio(redLedPin);
-        greenLed = peripheralManagerService.openGpio(greenLedPin);
-        redLed.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
-        greenLed.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
+        if (redLed == null) {
+            redLed = openLed(peripheralManagerService, redLedPin);
+        }
+        if (greenLed == null) {
+            greenLed = openLed(peripheralManagerService, greenLedPin);
+        }
+    }
+
+    private Gpio openLed(PeripheralManagerService peripheralManagerService, String pin) throws IOException {
+        Gpio led = peripheralManagerService.openGpio(pin);
+        led.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
+        return led;
     }
 
     private void initAnimator() {
@@ -94,5 +102,7 @@ public class LedIndicator implements BuildIndicator {
         ledAnimator.cancel();
         redLed.close();
         greenLed.close();
+        redLed = null;
+        greenLed = null;
     }
 }
